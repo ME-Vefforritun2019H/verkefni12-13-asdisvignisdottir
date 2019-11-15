@@ -1,0 +1,75 @@
+body,h1 {
+    color: gray();
+    background-image: url("images/Blurred-Background.jpg");
+    background-size: auto;
+    text-align: center;
+    font-family: "Raleway", Arial, sans-serif
+}
+
+h1 {
+    letter-spacing: 6px;
+    padding: 30px 30px;
+}
+
+.border {
+    width: 700px;
+}
+
+.photo {
+    width: 100mm;
+}
+
+.header {
+    font-size: smaller;
+}
+
+#header {
+    margin-top: 40px 0 20px 0;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.vinkonur{
+    padding: 30px 25px 5px 25px;
+}
+
+.me{
+    padding: 30px 25px 5px 25px;
+}
+
+.landsv{
+    padding: 30px 25px 5px 25px;
+}
+
+.me{
+    padding: 30px 25px 5px 25px;
+}
+
+.atvinna{
+    padding: 30px 30px 30px 30px;
+}
+
+.crossfit{
+    padding: 30px 25px 5px 25px;
+}
+
+.menntun{
+    padding: 30px 30px 30px 30px;
+}
+
+.ahugamal{
+    padding: 40px 25px 5px 25px;
+}
+
+#wrapper {
+    width: 720px;
+    margin: 0 auto;
+}
+.bil{
+    padding: 10px 40px 40px 40px;
+}
+.enter{
+    padding: 10px 40px 40px 40px;
+}
